@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "db/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1306,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAC5AwAAIyBUaGlzIGZpbGUgaXMgYXV0by1nZW5lcmF0ZWQgZnJvbSB0aGUgY3VycmVudCBzdGF0ZSBvZiB0aGUgZGF0YWJhc2UuIEluc3RlYWQKIyBvZiBlZGl0aW5nIHRoaXMgZmlsZSwgcGxlYXNlIHVzZSB0aGUgbWlncmF0aW9ucyBmZWF0dXJlIG9mIEFjdGl2ZSBSZWNvcmQgdG8KIyBpbmNyZW1lbnRhbGx5IG1vZGlmeSB5b3VyIGRhdGFiYXNlLCBhbmQgdGhlbiByZWdlbmVyYXRlIHRoaXMgc2NoZW1hIGRlZmluaXRpb24uCiMKIyBUaGlzIGZpbGUgaXMgdGhlIHNvdXJjZSBSYWlscyB1c2VzIHRvIGRlZmluZSB5b3VyIHNjaGVtYSB3aGVuIHJ1bm5pbmcgYGJpbi9yYWlscwojIGRiOnNjaGVtYTpsb2FkYC4gV2hlbiBjcmVhdGluZyBhIG5ldyBkYXRhYmFzZSwgYGJpbi9yYWlscyBkYjpzY2hlbWE6bG9hZGAgdGVuZHMgdG8KIyBiZSBmYXN0ZXIgYW5kIGlzIHBvdGVudGlhbGx5IGxlc3MgZXJyb3IgcHJvbmUgdGhhbiBydW5uaW5nIGFsbCBvZiB5b3VyCiMgbWlncmF0aW9ucyBmcm9tIHNjcmF0Y2guIE9sZCBtaWdyYXRpb25zIG1heSBmYWlsIHRvIGFwcGx5IGNvcnJlY3RseSBpZiB0aG9zZQojIG1pZ3JhdGlvbnMgdXNlIGV4dGVybmFsIGRlcGVuZGVuY2llcyBvciBhcHBsaWNhdGlvbiBjb2RlLgojCiMgSXQncyBzdHJvbmdseSByZWNvbW1lbmRlZCB0aGF0IHlvdSBjaGVjayB0aGlzIGZpbGUgaW50byB5b3VyIHZlcnNpb24gY29udHJvbCBzeXN0ZW0uCgpBY3RpdmVSZWNvcmQ6OlNjaGVtYVs3LjBdLmRlZmluZSh2ZXJzaW9uOiAyMDIyXzAzXzA0XzIxMDUxOCkgZG8KICBjcmVhdGVfdGFibGUgInBvc3RzIiwgZm9yY2U6IDpjYXNjYWRlIGRvIHx0fAogICAgdC5zdHJpbmcgInRpdGxlIgogICAgdC50ZXh0ICJib2R5IgogICAgdC5kYXRldGltZSAiY3JlYXRlZF9hdCIsIG51bGw6IGZhbHNlCiAgICB0LmRhdGV0aW1lICJ1cGRhdGVkX2F0IiwgbnVsbDogZmFsc2UKICBlbmQKCmVuZAoAAAAAAAAAABoFAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAATAQAAUmFpbHMuYXBwbGljYXRpb24ucm91dGVzLmRyYXcgZG8KICBnZXQgJ3Bvc3RzL2luZGV4JwogIGdldCAncG9zdHMvbmV3JwogIGdldCAncG9zdHMvc2hvdycKICBnZXQgJ3Bvc3RzL2Rlc3Ryb3knCiAgIyBEZWZpbmUgeW91ciBhcHBsaWNhdGlvbiByb3V0ZXMgcGVyIHRoZSBEU0wgaW4gaHR0cHM6Ly9ndWlkZXMucnVieW9ucmFpbHMub3JnL3JvdXRpbmcuaHRtbAoKICAjIERlZmluZXMgdGhlIHJvb3QgcGF0aCByb3V0ZSAoIi8iKQogICMgcm9vdCAiYXJ0aWNsZXMjaW5kZXgiCmVuZAoAAAAAAAAAAL0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Richard/RoR/Blog",
+		"/Users/Richard/RoR/Blog/app",
+		"/Users/Richard/RoR/Blog/app/controllers",
+		"/Users/Richard/RoR/Blog/app/models",
+		"/Users/Richard/RoR/Blog/config",
+		"/Users/Richard/RoR/Blog/db",
+		"/Users/Richard/RoR/Blog/db/migrate"
+	],
+	"file_history":
+	[
+		"/Users/Richard/RoR/Blog/app/controllers/posts_controller.rb",
+		"/Users/Richard/myapp/test/controllers/student_controller_test.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "db/schema.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1119,
+								1125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/routes.rb",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Blog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new.",
+				"app/views/student/new.html.erb"
+			],
+			[
+				"routes.r",
+				"config/routes.rb"
+			],
+			[
+				"studnet",
+				"app/models/student.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
